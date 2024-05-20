@@ -1,36 +1,33 @@
 import java.util.Scanner;
 
-
 public class Main {
-    public static void main(String[] args) {
-        String question = "What is the make and model of your first car? (You can type just the letters for the answer ie. A, B, C)";
-        String choiceOne = "A. Honda Civic ";
-        String choiceTwo = " B. Hyundai Elantra ";
-        String choiceThree = " C. Tesla Model 3 ";
 
-        String correctAnswer = choiceTwo;
+    public static void main(String args[]) {
+        String question = "What is the largest planet in our solar system?";
+        String choiceOne = "earth";
+        String choiceTwo = "jupiter";
+        String choiceThree = "saturn";
+
+        String correctAnswer = choiceThree;
 
         // Write a print statement asking the question
         System.out.println(question);
+
         // Write a print statement giving the answer choices
-        System.out.println(choiceOne + choiceTwo + choiceThree);
+        System.out.println("Choose one of the following: " + // clicking the red button at the line area allows you to..
+                // add a breakpoint. When you run your code, it will stop here and show you results to help debug.
+                choiceOne + ", " + choiceTwo + ", or " + choiceThree + ".");
+
         // Have the user input an answer
-        Scanner input = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         // Retrieve the user's input
-        String userInput = input.next();
-        // If the user's input matches the correctAnswer...
-        if(userInput.equalsIgnoreCase("B")){ // .equalsIgnoreCase can be used to ignore input's case.
-            // then the user is correct and we want to print out a congrats message to the user.
-            System.out.println("Correct! Congratulations!");
+        String input = scanner.next();
+
+        if(correctAnswer.equals(input.toLowerCase())) {
+            System.out.println("Congrats! That's the correct answer");
         } else {
-            // If the user's input does not match the correctAnswer...
-            // then the user is incorrect and we want to print out a message saying that the user is incorrect.
-            System.out.println("Sorry, that is not the correct answer. Try again.");
-
-        }
-
-
-
-
+            System.out.println("You are incorrect. The correct answer is " + correctAnswer);
         }
     }
+
+}
