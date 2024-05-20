@@ -1,25 +1,33 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        int studentAge = 15;
-        double studentGPA = 3.45;
-        boolean hasPerfectAttendance = true;
-        String studentFirstName = "Kayla";
-        String studentLastName = "Hammon";
-        char studentFirstInitial = studentFirstName.charAt(0);
-        char studentLastInitial = studentLastName.charAt(0);
 
-        System.out.println(studentFirstName + " " + studentLastName + " has a GPA of " + studentGPA);
-        System.out.println("What do you want to update it to?");
+    public static void main(String args[]) {
+        String question = "What is the largest planet in our solar system?";
+        String choiceOne = "earth";
+        String choiceTwo = "jupiter";
+        String choiceThree = "saturn";
 
-        Scanner input = new Scanner(System.in);
-        studentGPA = input.nextDouble();
+        String correctAnswer = choiceThree;
 
-        System.out.println(studentFirstName + " " + studentLastName + " now has a GPA of " + studentGPA);
+        // Write a print statement asking the question
+        System.out.println(question);
+
+        // Write a print statement giving the answer choices
+        System.out.println("Choose one of the following: " + // clicking the red button at the line area allows you to..
+                // add a breakpoint. When you run your code, it will stop here and show you results to help debug.
+                choiceOne + ", " + choiceTwo + ", or " + choiceThree + ".");
+
+        // Have the user input an answer
+        Scanner scanner = new Scanner(System.in);
+        // Retrieve the user's input
+        String input = scanner.next();
+
+        if(correctAnswer.equals(input.toLowerCase())) {
+            System.out.println("Congrats! That's the correct answer");
+        } else {
+            System.out.println("You are incorrect. The correct answer is " + correctAnswer);
         }
     }
+
+}
