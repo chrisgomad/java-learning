@@ -1,33 +1,24 @@
 import java.util.Scanner;
 
 public class Main {
+    public static void announceDeveloperTeaTime(){
+        System.out.println("Waiting for developer tea time...");
+        System.out.println("Type in a random word and press Enter to start developer tea time.");
+        Scanner input = new Scanner(System.in);
+        input.next();
+        System.out.println("It's developer tea time!");
+    }
+    public static void main(String[] args) {
+        System.out.println("Welcome to your new job");
 
-    public static void main(String args[]) {
-        String question = "What is the largest planet in our solar system?";
-        String choiceOne = "earth";
-        String choiceTwo = "jupiter";
-        String choiceThree = "saturn";
+        announceDeveloperTeaTime();
 
-        String correctAnswer = choiceThree;
+        System.out.println("Write code");
+        System.out.println("Review code");
 
-        // Write a print statement asking the question
-        System.out.println(question);
+        announceDeveloperTeaTime();
 
-        // Write a print statement giving the answer choices
-        System.out.println("Choose one of the following: " + // clicking the red button at the line area allows you to..
-                // add a breakpoint. When you run your code, it will stop here and show you results to help debug.
-                choiceOne + ", " + choiceTwo + ", or " + choiceThree + ".");
-
-        // Have the user input an answer
-        Scanner scanner = new Scanner(System.in);
-        // Retrieve the user's input
-        String input = scanner.next();
-
-        if(correctAnswer.equals(input.toLowerCase())) {
-            System.out.println("Congrats! That's the correct answer");
-        } else {
-            System.out.println("You are incorrect. The correct answer is " + correctAnswer);
-        }
+        System.out.println("Get promoted!");
     }
 
 }
