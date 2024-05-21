@@ -47,10 +47,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 5/20/24                                                                                                                  | 
-|---|--------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Finishing Learning Java course and Project training                                                                      |   
-| What content I actually covered | Java practice files and Project prep.                                                                                    |  
-| Reflection on what I learned today | Was able to practice with Java and created some files on some challenges I worked on. Also able to set up project tasks. |   
-| Reflection on how I learned today | Today was a good day since I was able to execute most tasks and had minimal distractions throughout the day.             |
-| Reflections for the following day| Continue to have set distinct times for Testing learning resources and project exploration and task execution.           |
+| Today's Date  | 5/21/24                                                                                                                                                                                          | 
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Finishing Learning Java course and Project training                                                                                                                                              |   
+| What content I actually covered | Mainly project setup meetings and still working on Java core course.                                                                                                                             |  
+| Reflection on what I learned today | Was able to practice with Java and created some files on some challenges I worked on. Also able to receive more clarity on project tasks.                                                        |   
+| Reflection on how I learned today | Today was a decent day. Still trying to get access to all project work so more of that time took away from the Java training.                                                                    |
+| Reflections for the following day| Tomorrow specifically is project shadowing day. Focus more in the morning on the difficult training material first and if there is extra time at the end of the day, work on more Java practice. |
