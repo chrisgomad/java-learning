@@ -47,10 +47,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 5/21/24                                                                                                                                                                                          | 
-|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Finishing Learning Java course and Project training                                                                                                                                              |   
-| What content I actually covered | Mainly project setup meetings and still working on Java core course.                                                                                                                             |  
-| Reflection on what I learned today | Was able to practice with Java and created some files on some challenges I worked on. Also able to receive more clarity on project tasks.                                                        |   
-| Reflection on how I learned today | Today was a decent day. Still trying to get access to all project work so more of that time took away from the Java training.                                                                    |
-| Reflections for the following day| Tomorrow specifically is project shadowing day. Focus more in the morning on the difficult training material first and if there is extra time at the end of the day, work on more Java practice.
+| Today's Date  | 5/23/24                                                                                                                                                                                           | 
+|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Finishing Learning Java course and Project training                                                                                                                                               |   
+| What content I actually covered | Completed Java course and setting up project access.                                                                                                                                              |  
+| Reflection on what I learned today | I was able to complete the Java course. Practiced more with classes and functions. Also connected with project team for project access.                                                           |   
+| Reflection on how I learned today | Today was a good day. I completed tasks that I had set out for the day and got access to some of the necessary tools needed for the project. Will work on tasks given by project lead on Tuesday. |
+| Reflections for the following day| Split time between Selenium training and project setup.  
