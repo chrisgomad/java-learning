@@ -1,22 +1,17 @@
+// a class is a user defined blueprint that has a set of attributes and behaviors that define the item that it is...
+// supposed to represent.
+
+// an instance is an object created from a class blueprint
+
+
 import java.util.Scanner;
 
-public class Main {
-    public static double calculateTotalMealPrice(double listedMealPrice, double tipRate, double taxRate){
-        double tip = tipRate * listedMealPrice;
-        double tax = taxRate * listedMealPrice;
-        double result = listedMealPrice + tip + tax;
-        return result;
 
-    }
+public class Main {
 
     public static void main(String[] args) {
-        double groupTotalMealPrice = calculateTotalMealPrice(100, .2, .08);
-        System.out.println(groupTotalMealPrice); // the dot after each word indicates a built-in Java function...
-        // it's good practice to search through documentation for something you want to execute, like calculating...
-        // the square root of a number, and see if there is already an existing function that can do that for you.
-        double individualMealPrice = groupTotalMealPrice / 5;
-        System.out.println(individualMealPrice);
-
+        Triangle triangleA = new Triangle(15, 8, 15, 8, 17);
+        Triangle triangleB = new Triangle(3, 2.598, 3, 3, 3);
     }
 
 }
