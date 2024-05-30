@@ -47,9 +47,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 5/28/24                                                                                                                                                            | 
+| Today's Date  | 5/30/24                                                                                                                                                            | 
 |---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Java 11 Essentials and project account access                                                                                                                      |   
+| What content plan to cover  | Professional learning: Effective communication cards. Technical learning: Java 11 essentials. Project: Confirm access to repo and work on any relevant tasks.      |   
 | What content I actually covered | Java 11 essentials and Maven setup.                                                                                                                                |  
 | Reflection on what I learned today | Using classes and setting up environment for practicing. Also working with Maven and how to install and use dependencies.                                          |   
 | Reflection on how I learned today | Today was a good day. I completed tasks that I had set out for the day. I wished I had more time for project tasks but I can get more of that done on project day. |
