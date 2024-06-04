@@ -36,5 +36,11 @@ public class Main {
             System.out.println("they don't match!");
         }
 
+        try {
+            var s6 = s5.substring(2,4);
+            System.out.println(s6);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 }
