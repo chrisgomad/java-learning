@@ -1,29 +1,40 @@
 package com.company;
 
-// below is an example on how to convert primitive value types to strings
+// pulled from David Gassner's Java essential 2019 repo
+
+// here we will be comparing string types and using methods like .equals that works better with comparisons.
 
 public class Main {
     public static void main(String[] args) {
-        int result = 10 + 12;
-        String answer = "The answer is " + result;
-        System.out.println(answer);
+        String s1 = "Hello!";
+        var s2 = "Hello!";
 
-        String howMany = 20 + " things";
-        System.out.println(howMany);
+        if (s1 == s2) {
+            System.out.println("they match!");
+        } else {
+            System.out.println("they don't match!");
+        }
 
-        var result2 = 10 + 20;
+        String s3 = new String("Hello!");
+        String s4 = new String("Hello!");
+        if (s3 == s4) {
+            System.out.println("they match!");
+        } else {
+            System.out.println("they don't match!");
+        }
 
-        int intValue = 42;
-        var fromInt = Integer.toString(intValue);
-        System.out.println(fromInt);
+        if (s3.equals(s4)) {
+            System.out.println("they match!");
+        } else {
+            System.out.println("they don't match!");
+        }
 
-        boolean boolValue = true;
-        var fromBool = Boolean.toString(boolValue);
-        System.out.println(fromBool);
-
-        long longValue = 10_000_000;
-        var fromLong = Long.toString(longValue);
-        System.out.println(fromLong);
+        var s5 = "HELLO!";
+        if (s3.equalsIgnoreCase(s5)) {
+            System.out.println("they match!");
+        } else {
+            System.out.println("they don't match!");
+        }
 
     }
 }
