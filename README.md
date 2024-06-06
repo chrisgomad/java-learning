@@ -47,9 +47,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 6/4/24                                                                                                                                                                                                                              | 
+| Today's Date  | 6/6/24                                                                                                                                                                                                                              | 
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Technical learning: Java 11 essentials, completing course. Project work: Confirm access to repo and start working on tasks.                                                                                                         |   
+| What content plan to cover  | Technical learning: Cucumber intro/Selenium study.  Project work: Run 2-3 test cases, debug one test case to understand methods being used, and Map user to queue.                                                                  |   
 | What content I actually covered | Technical learning: Completed Java 11 essentials course. Project work: submitted test cases in testing environment.                                                                                                                 |  
 | Reflection on what I learned today | mainly practicing with converting strings, looking deeper into Objects and how to work with loops and conditional statements. On the project side learned about system integration testing and practicing with different scenarios. |   
 | Reflection on how I learned today | Very good day today. Completed all my tasks and was able to finish on time and on track.                                                                                                                                            |
