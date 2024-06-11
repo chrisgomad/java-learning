@@ -47,10 +47,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 6/10/24                                                                                                                                                                                                          | 
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Technical learning: Selenium beginner trainings. Stopping at Mastering Xpath and CSS selectors.  Project work: Working with team member to run 2-3 test scenarios and map users to a queue. Practice using Jira. |   
-| What content I actually covered | Technical learning: Selenium beginner trainings. Stopping at Mastering Xpath and CSS selectors.. Project work: went through 8 tests, had a few failed cases. Will review tomorrow.                               |  
-| Reflection on what I learned today | Mainly getting an introduction to Selenium, how to run in headless environment and using tools like HtmlUnit. Project side learned how to run more test scenarios in different environments.                     |   
-| Reflection on how I learned today | I'd say it was a good day. Completed my tasks with ease and minimal distractions.                                                                                                                                |
-| Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration.                                                                           
+| Today's Date  | 6/11/24                                                                                                                                                                                      | 
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Technical learning: completing Mastering Xpath and CSS selectors course.  Project work: Working with team member to run 2-3 test scenarios that failed previous day. Practice using Jira.    |   
+| What content I actually covered | Technical learning: Selenium beginner trainings. Stopping at Mastering Xpath and CSS selectors.. Project work: went through 8 tests, had a few failed cases. Will review tomorrow.           |  
+| Reflection on what I learned today | Mainly getting an introduction to Selenium, how to run in headless environment and using tools like HtmlUnit. Project side learned how to run more test scenarios in different environments. |   
+| Reflection on how I learned today | I'd say it was a good day. Completed my tasks with ease and minimal distractions.                                                                                                            |
+| Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration.                                                       
