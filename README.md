@@ -27,14 +27,12 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
     - Testing training
     - Project Shadowing
 - Wednesday
-    - Testing training
     - Project Shadowing
 - Thursday
     - Testing training
     - Project Shadowing
 - Friday
-    - Testing training
-    - Project Shadowing
+    - Program training
 
 --- 
 ## Daily Record:
