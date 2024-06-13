@@ -29,9 +29,11 @@ public class XPath1 {
 
         driver.findElement(By.xpath("//input[@id='email']")).sendKeys("chrissito.rodriguez@gmail.com");
 
-        driver.findElement(By.xpath("//input[@id='pass']")).sendKeys("JesusandMetho");
+        driver.findElement(By.xpath("//input[@id='pass']")).sendKeys("");
 
         driver.findElement(By.xpath("//button[@id='loginbutton']")).click();
+
+        driver.close();
 
 
     }
