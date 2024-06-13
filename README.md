@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 6/12/24                                                                                                                                | 
+| Today's Date  | 6/13/24                                                                                                                                | 
 |---|----------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Project shadowing.                                                                                                                     |   
-| What content I actually covered | Professional training and project work                                                                                                 |  
-| Reflection on what I learned today | Learned about developing your professional pitch. Also created a test script in Cucumber.                                              |   
-| Reflection on how I learned today | I'd say it was a good day. Completed my tasks with ease. Didn't fully finish my test script.                                           |
+| What content plan to cover  | Complete Mastering XPath and CSS selectors course. Project side, write some test scripts and work with appeals scenarios.              |   
+| What content I actually covered |                                                                                                 |  
+| Reflection on what I learned today |                                               |   
+| Reflection on how I learned today |                                            |
 | Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration. 
