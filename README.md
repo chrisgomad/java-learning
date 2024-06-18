@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 6/18/24                                                                                                                                                                                       | 
-|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Going through Selenium Framework training, stopping at TestNG Listeners. Project side will be finishing a test script created and will create another today.                                  |   
-| What content I actually covered | Going through Selenium training. Project side wrote a script for testing application scenarios.                                                                                               |  
-| Reflection on what I learned today | I learned about testing frameworks like TestNG and how to work with POMs as well. Project side learned about debugging and different methods needed to create a new feature or test scenario. |   
-| Reflection on how I learned today | It was a good day. Time was split evenly and tasks were completed.                                                                                                                            |
-| Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration.                                                        
+| Today's Date  | 6/18/24                                                                                                                                                                                                   | 
+|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Going through Selenium Framework training, stopping at TestNG Listeners. Project side will be finishing a test script created and will create another today.                                              |   
+| What content I actually covered | Going through Selenium training, stopped at how to create dependencies. Project side writing a script for an issue that was raised. Will finish tomorrow.                                                 |  
+| Reflection on what I learned today | I learned about TestNG and different aspects of testing and exception handling with Selenium. Project side learned about debugging and different methods needed to create a new feature or test scenario. |   
+| Reflection on how I learned today | It was a good day. Time was split evenly and tasks were completed.                                                                                                                                        |
+| Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration.                                                                    
