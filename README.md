@@ -47,7 +47,7 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
 | Today's Date  | 6/18/24                                                                                                                                                                                                   | 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Going through Selenium Framework training, stopping at TestNG Listeners. Project side will be finishing a test script created and will create another today.                                              |   
+| What content plan to cover  | Will be finishing a test script today and then creating other test scripts for potential failed cases.                                                                                                    |   
 | What content I actually covered | Going through Selenium training, stopped at how to create dependencies. Project side writing a script for an issue that was raised. Will finish tomorrow.                                                 |  
 | Reflection on what I learned today | I learned about TestNG and different aspects of testing and exception handling with Selenium. Project side learned about debugging and different methods needed to create a new feature or test scenario. |   
 | Reflection on how I learned today | It was a good day. Time was split evenly and tasks were completed.                                                                                                                                        |
