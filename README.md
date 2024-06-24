@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 6/20/24                                                                                                                                                                                                                         | 
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Completing Selenium framework course. Project side working on new test script case.                                                                                                                                             |   
-| What content I actually covered | Completed Selenium learning. Project side started logic for new test case scenario.                                                                                                                                             |  
-| Reflection on what I learned today | Learned about different aspects of Selenium like headless browsers, running tests in Jenkins, working with dependencies. Project side got to understand framework design better and how the app interacts in different aspects. |   
-| Reflection on how I learned today | It was a good day. Time was split evenly and tasks were completed.                                                                                                                                                              |
-| Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration.                                                                                          
+| Today's Date  | 6/24/24                                                              | 
+|---|----------------------------------------------------------------------|
+| What content plan to cover  | Katalon practitioner courses. Project side, working through test scripts and creating one. |   
+| What content I actually covered | |  
+| Reflection on what I learned today | |   
+| Reflection on how I learned today | |
+| Reflections for the following day| Split time between Selenium training and project setup. Emphasis small breaks throughout the day for enhanced focus and concentration. 
