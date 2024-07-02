@@ -45,9 +45,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 7/1/24                                                                                                                                                                                                                | 
+| Today's Date  | 7/2/24                                                                                                                                                                                                                | 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon practitioner courses. Project side, finishing test script scenario.                                                                                                                                           |   
+| What content plan to cover  | Technical training - Katalon creating and executing automated tests. Project side, finishing test script scenario And beginning other script.                                                                         |   
 | What content I actually covered | Katalon practitioner courses. Project side, completed  VM access tasks. Also creating new test script.                                                                                                                |  
 | Reflection on what I learned today | Mostly how to create automation scripts in Katalon and record steps and how web pages are built. On the project side, setup VM and continued working script tasks.                                                    |   
 | Reflection on how I learned today | It was a decent day. Most tasks were done with minimal distractions.                                                                                                                                                  |
