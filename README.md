@@ -45,9 +45,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 7/8/24                                                                                                                                                                                                                | 
+| Today's Date  | 7/10/24                                                                                                                                                                                                               | 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Technical training - Katalon creating and executing automated tests. Project side, version control.                                                                                                                   |   
+| What content plan to cover  | Katalon Practitioner cert - Create 6 cases. Project side, complete final edits to previous scripts and start working on new test case.                                                                                |   
 | What content I actually covered | Katalon creating and executing automated tests. Pulling latest changes and pushing my local changes.                                                                                                                  |  
 | Reflection on what I learned today | Learning specific steps on how to create and execute tests with Katalon completely. Project side learning more about version control system.                                                                          |   
 | Reflection on how I learned today | It was a good day. All tasks were completed despite a few errors in merging conflicts.                                                                                                                                |
