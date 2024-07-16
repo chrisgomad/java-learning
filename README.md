@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 7/15/24                                                                                                                                                                                                               | 
+| Today's Date  | 7/16/24                                                                                                                                                                                                               | 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon Practitioner cert - work through certification by completing test cases and objects. Project side maintenance tasks.                                                                                          |   
-| What content I actually covered | Creating two more test cases in Katalon. Running weekly and daily tests in project environment.                                                                                                                       |  
-| Reflection on what I learned today | how to create test suites and learning more about the Katalon framework.Learned how to create a new branch and using JIRA.                                                                                            |   
+| What content plan to cover  | Katalon Practitioner cert - work through certification by completing test cases and objects. Project side starting on new script.                                                                                     |   
+| What content I actually covered | Progress towards Katalon Practitioner certificate. Setting up environment for new script.                                                                                                                             |  
+| Reflection on what I learned today | Learning more about test cases, suites, and collections in Katalon. Project side I am learning a new test script scenario.                                                                                            |   
 | Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                                                                               |
 | Reflections for the following day| Split time between Katalon training and project setup. Emphasis on small breaks throughout the day for enhanced focus and concentration. Limit distractions and allow only instrumental music for peak concentration. 
