@@ -45,9 +45,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 7/16/24                                                                                                                                                                                                               | 
+| Today's Date  | 7/17/24                                                                                                                                                                                                               | 
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon Practitioner cert - work through certification by completing test cases and objects. Project side starting on new script.                                                                                     |   
+| What content plan to cover  | Katalon practitioner certificate. Project new script and daily execution.                                                                                                                                             |   
 | What content I actually covered | Progress towards Katalon Practitioner certificate. Setting up environment for new script.                                                                                                                             |  
 | Reflection on what I learned today | Learning more about test cases, suites, and collections in Katalon. Project side I am learning a new test script scenario.                                                                                            |   
 | Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                                                                               |
