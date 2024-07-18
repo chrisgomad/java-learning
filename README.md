@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 7/17/24                                                                                                                                                                                                               | 
-|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon practitioner certificate. Project new script and daily execution.                                                                                                                                             |   
-| What content I actually covered | Progress towards Katalon Practitioner certificate. Completed script and ran daily executions.                                                                                                                         |  
-| Reflection on what I learned today | Learning more about test cases, suites, and collections in Katalon. Project side understanding different environments and scenarios.                                                                                  |   
-| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                                                                               |
-| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions.
+| Today's Date  | 7/18/24                                                                                                                                                           | 
+|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Completing Katalon practictioner certificate. Project side version control.                                                                                       |   
+| What content I actually covered | Progress towards Katalon Practitioner certificate. Completed script and ran daily executions.                                                                     |  
+| Reflection on what I learned today | Learning more about test cases, suites, and collections in Katalon. Project side understanding different environments and scenarios.                              |   
+| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                           |
+| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
