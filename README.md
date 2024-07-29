@@ -48,7 +48,7 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Today's Date  | 7/28/24                                                                                                                                                           | 
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | What content plan to cover  | Katalon Professional Certificate tasks. Project side daily test executions.                                                                                       |   
-| What content I actually covered | Professional training. Project side executing daily scripts.                                                                                                      |  
-| Reflection on what I learned today | Learning about writing and overall effective communication and 3 step process to effective writing.                                                               |   
+| What content I actually covered | Katalon professional tasks. Project side daily executions.                                                                                                        |  
+| Reflection on what I learned today | Learned about how to use Katalons self healing feature.                                                                                                           |   
 | Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                           |
 | Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
