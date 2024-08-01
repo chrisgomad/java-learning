@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 8/1/24                                                                                                                                                            | 
-|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon Professional Certificate tasks. Project side daily test executions.                                                                                       |   
-| What content I actually covered | Katalon professional tasks. Project side daily executions.                                                                                                        |  
-| Reflection on what I learned today | Learned about how to use Katalons self healing feature.                                                                                                           |   
-| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                           |
+| Today's Date  | 8/1/24                                                                                                                                                           | 
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Katalon Professional Certificate tasks, debug testcloud execution errors. Project side daily test executions.                                                    |   
+| What content I actually covered | Katalon professional tasks. Project side daily executions.                                                                                                       |  
+| Reflection on what I learned today | Learned about how to use Katalons self healing feature.                                                                                                          |   
+| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                          |
 | Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
