@@ -48,7 +48,7 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Today's Date  | 8/5/24                                                                                                                                                            | 
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | What content plan to cover  | Katalon Expert Certificate tasks. Project VM access follow up, daily smoke test executions.                                                                       |   
-| What content I actually covered | Katalon professional tasks. Project side daily executions.                                                                                                        |  
-| Reflection on what I learned today | Learned about creating custom keyword files in Katalon.                                                                                                           |   
+| What content I actually covered | Katalon expert setup. Project side daily executions.                                                                                                              |  
+| Reflection on what I learned today | Learning how to import script repositories in Katalon Studio. Project side understanding configurations more.                                                     |   
 | Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                           |
 | Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
