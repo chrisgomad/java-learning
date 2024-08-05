@@ -45,9 +45,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 8/1/24                                                                                                                                                            | 
+| Today's Date  | 8/5/24                                                                                                                                                            | 
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon Professional Certificate tasks, debug testcloud execution errors. Project side daily test executions.                                                     |   
+| What content plan to cover  | Katalon Expert Certificate tasks. Project VM access follow up, daily smoke test executions.                                                                       |   
 | What content I actually covered | Katalon professional tasks. Project side daily executions.                                                                                                        |  
 | Reflection on what I learned today | Learned about creating custom keyword files in Katalon.                                                                                                           |   
 | Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                           |
