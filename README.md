@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 8/6/24                                                                                                                                                            | 
-|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon Expert Certificate tasks. Project side daily smoke test executions.                                                                                       |   
-| What content I actually covered | Katalon expert setup. Project side daily executions.                                                                                                              |  
-| Reflection on what I learned today | Learning how to import script repositories in Katalon Studio. Project side understanding configurations more.                                                     |   
-| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                           |
-| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
+| Today's Date  | 8/6/24                                                                                                                                                                       | 
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Katalon Expert Certificate tasks. Project side daily smoke test executions.                                                                                                  |   
+| What content I actually covered | Katalon expert tasks. Project side daily executions.                                                                                                                         |  
+| Reflection on what I learned today | Learning how to use Katalon testops for numerous tasks like executing in private domains and running executions in test ops. Project side understanding configurations more. |   
+| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                                      |
+| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions.            
