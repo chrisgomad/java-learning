@@ -45,9 +45,9 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 8/6/24                                                                                                                                                                       | 
+| Today's Date  | 8/13/24                                                                                                                                                                      | 
 |---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Katalon Expert Certificate tasks. Project side daily smoke test executions.                                                                                                  |   
+| What content plan to cover  | Selenium Advanced SDET Design Patterns - Single Responsibility Principle . Project side daily smoke test executions.                                                         |   
 | What content I actually covered | Katalon expert tasks. Project side daily executions.                                                                                                                         |  
 | Reflection on what I learned today | Learning how to use Katalon testops for numerous tasks like executing in private domains and running executions in test ops. Project side understanding configurations more. |   
 | Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                                      |
