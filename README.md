@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 8/19/24                                                                                                                                                                      | 
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Selenium Advanced SDET Design Patterns - Factory Pattern . Project side virtual machine tasks.                                                                               |   
-| What content I actually covered | Katalon expert tasks. Project side daily executions.                                                                                                                         |  
-| Reflection on what I learned today | Learning how to use Katalon testops for numerous tasks like executing in private domains and running executions in test ops. Project side understanding configurations more. |   
-| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                                      |
-| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions.            
+| Today's Date  | 8/20/24                                                                                                                                                          | 
+|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Selenium Advanced SDET Design Patterns - Command Pattern, Template method pattern, Proxy pattern. Project side virtual machine tasks.                            |   
+| What content I actually covered | Selenium Advanced SDET Design patterns - Java Design patterns: Single responsibility principle. Project side VM tasks.                                           |  
+| Reflection on what I learned today | Learning different frameworks and Design patterns with Selenium and Java. Project side learning more about VM execution.                                         |   
+| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                          |
+| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
