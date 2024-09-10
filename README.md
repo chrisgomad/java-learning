@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 8/20/24                                                                                                                                                          | 
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Selenium Advanced SDET Design Patterns - Command Pattern, Template method pattern, Proxy pattern. Project side virtual machine tasks.                            |   
-| What content I actually covered | Selenium Advanced SDET Design patterns - Java Design patterns: Single responsibility principle. Project side VM tasks.                                           |  
-| Reflection on what I learned today | Learning different frameworks and Design patterns with Selenium and Java. Project side learning more about VM execution.                                         |   
-| Reflection on how I learned today | It was a good day. Completed all tasks.                                                                                                                          |
-| Reflections for the following day| Continue to enforce your focus by splitting training time and project time. ensure you limit distractions and have clear tasks for the day to avoid distractions. 
+| Today's Date  | 9/9/24                                                                                                                                                            | 
+|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Selenium Java Test Framework: Automate - Page object model design. Project: Daily smoke tests.                                                                    |   
+| What content I actually covered | Selenium Java Test Framework: Automate - Synchronization. Project: Daily smoke tests.                                                                             |  
+| Reflection on what I learned today | Learning best practices to automate frameworks and bad practices as well. Then brief overview into core Java principles and SRP.                                  |   
+| Reflection on how I learned today | Not so well. Many disstractions and with trying to rush through the training to meet deadlines, learning comprehension is low.                                    |
+| Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted. 
