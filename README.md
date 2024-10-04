@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 9/26/24                                                                                                                                                                                                                 | 
-|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | HP-UFT 12.0 Automation: Object Properties - Demo Scripts & OR's. Project side: Work on new script. Manual application submission.                                                                                       |   
-| What content I actually covered | HP-UFT 12.0 Automation: Object Properties - Demo Scripts & OR's. Also learned about building visibility remotely. Project side: Testing different scripts in framework. Ran regression and fixed some bugs in the code. |  
-| Reflection on what I learned today | Learned about difference between descriptive programming techniques and standard OR's. Project side learning how to debug and understand where errors are happening better.                                             |   
-| Reflection on how I learned today | I would say a successful day in terms of completion. Completed all tasks.                                                                                                                                               |
-| Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted.                                                                                               
+| Today's Date  | 10/3/24                                                                                                                                            | 
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Cypress Web Automation: Interaction with Web Elements - End of Course. Project side: Work on new script.                                           |   
+| What content I actually covered | Cypress Web Automation: Interaction with Web Elements - End of Course. Project side: Work on new script.                                           |  
+| Reflection on what I learned today | Learning about different ways to interact and use web elements with Cypress. Project side learned new process execution and working on new script. |   
+| Reflection on how I learned today | I would say a successful day in terms of completion. Completed all tasks.                                                                          |
+| Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted.                          
