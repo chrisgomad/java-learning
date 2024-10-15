@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 10/14/24                                                                                                                                           | 
-|---|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Technical training: Cypress v12 Course Custom Commands - Debugger.  Project side: Env Shakeout, Monthly automation execution.                      |   
-| What content I actually covered | Cypress Web Automation: Interaction with Web Elements - End of Course. Project side: Work on new script.                                           |  
-| Reflection on what I learned today | Learning about different ways to interact and use web elements with Cypress. Project side learned new process execution and working on new script. |   
-| Reflection on how I learned today | I would say a successful day in terms of completion. Completed all tasks.                                                                          |
-| Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted.                          
+| Today's Date  | 10/15/24                                                                                                                                      | 
+|---|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| What content plan to cover  | Technical training: Cypress v12 Course Custom Commands - Debugger.  Project side: Env Shakeout, Monthly automation execution.                 |   
+| What content I actually covered | Technical training: Cypress v12 Course Custom Commands - Reporting.  Project side: Env Shakeout, Monthly automation execution.                |  
+| Reflection on what I learned today | Learning about different ways to debug and test web elements with Cypress. Project side learned new process execution. |   
+| Reflection on how I learned today | I would say a successful day in terms of completion. Completed all tasks.                                                                     |
+| Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted.                     
