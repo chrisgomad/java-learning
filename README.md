@@ -45,10 +45,10 @@ While your coaches will use it as a soft point of accountability,
 you should use it only as much as it supports your reflections in learning.
 Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 
-| Today's Date  | 10/21/24                                                                                                                  | 
+| Today's Date  | 10/22/24                                                                                                                  | 
 |---|---------------------------------------------------------------------------------------------------------------------------|
-| What content plan to cover  | Technical training: COFTA Training basic.                                                                                 |   
-| What content I actually covered | Technical training: COFTA Training basic                                                                                  |  
-| Reflection on what I learned today | Learning COFTA tool and different automation aspects.                                                                     |   
+| What content plan to cover  | Technical training: COFTA Training Advanced.                                                                              |   
+| What content I actually covered | Technical training: COFTA Training Advanced.                                                                              |  
+| Reflection on what I learned today | Completed Advanced COFTA. Learning more of CI/CD and using tools like Scheduler and sending email reports.                |   
 | Reflection on how I learned today | I would say a successful day in terms of completion. Completed all tasks.                                                 |
 | Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted. 
