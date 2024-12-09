@@ -48,7 +48,7 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Today's Date  | 12/9/24                                                                                                                   | 
 |---|---------------------------------------------------------------------------------------------------------------------------|
 | What content plan to cover  | Technical training: Go through AccelQ training.                                                                           |   
-| What content I actually covered |                                                                                                                           |  
-| Reflection on what I learned today |                                                                                                                           |   
+| What content I actually covered | AccelQ training.                                                                                                          |  
+| Reflection on what I learned today | Learning about application overview and layout.                                                                           |   
 | Reflection on how I learned today | I would say a successful day in terms of completion. Completed all tasks.                                                 |
 | Reflections for the following day| Set clear tasks based on allotted time and use pomodoro technique to accomplish those tasks and avoid getting distracted. 
